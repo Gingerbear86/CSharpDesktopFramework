@@ -1,0 +1,553 @@
+2023-07-10 20:59:58.3945|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-10 21:00:02.6885|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-10 21:00:10.4442|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-10 21:04:35.6132|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-10 21:04:39.9029|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-10 21:04:47.2098|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed2023-07-11 08:12:38.7552|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-11 08:12:43.6196|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-11 08:12:50.7048|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-11 08:22:36.7990|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-11 08:22:41.1265|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-11 08:22:48.2330|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-11 08:33:26.1946|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-11 08:33:30.4741|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-11 08:33:37.4820|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-11 08:40:46.0370|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-11 08:40:50.2780|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-11 08:40:57.5543|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-11 08:58:42.3620|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-11 08:58:46.6341|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-11 08:58:53.8536|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-21 21:55:19.3697|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 21:55:21.8384|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-21 21:55:28.0388|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-21 21:55:37.0527|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-21 21:59:29.7861|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 21:59:33.9509|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-21 21:59:39.0097|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-21 21:59:47.2845|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-21 22:01:29.7242|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 22:01:33.9232|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-21 22:01:39.6886|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-21 22:01:47.9642|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-21 22:09:59.2509|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 22:10:04.1240|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-21 22:13:25.9073|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 22:13:30.2448|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-21 22:15:24.0790|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 22:16:15.8921|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-21 22:35:52.6505|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:20:57.1508|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:20:57.1697|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:20:57.1697|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:20:57.1697|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:22:00.4524|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:22:00.4698|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:22:00.4698|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:22:00.4698|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:23:09.5547|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:24:10.3609|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:25:26.0405|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:25:26.6544|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:25:27.2267|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:25:27.8002|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:38:25.7179|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:38:25.7335|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:38:25.7335|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:38:25.7335|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:40:45.2632|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:40:45.2811|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:40:45.2811|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:40:45.2811|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:41:41.9850|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:41:42.5295|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:41:43.0536|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:41:43.5775|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:44:26.4972|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:44:27.0468|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:44:27.5621|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:44:28.0748|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:49:50.1811|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:49:50.2027|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:49:50.2027|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:49:50.2027|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 08:52:51.6413|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 08:52:51.6668|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 08:52:51.6668|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 08:52:51.6668|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:36:48.0872|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:36:48.1048|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:36:48.1048|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:36:48.1048|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:45:58.3826|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:45:58.3998|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:45:58.3998|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:45:58.3998|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:46:41.1125|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:46:41.1289|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:46:41.1289|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:46:41.1289|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:48:51.1206|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:48:51.1376|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:48:51.1376|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:48:51.1376|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:51:55.4806|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:51:55.4969|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:51:55.4969|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:51:55.4969|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:52:38.6833|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:52:38.7016|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Failed
+2023-07-24 14:52:38.7016|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Failed
+2023-07-24 14:52:38.7016|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Failed
+2023-07-24 14:53:42.0195|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:53:44.4269|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-24 14:53:47.2204|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-24 14:53:52.6858|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-24 14:59:00.5763|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 14:59:02.9760|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-24 14:59:05.8320|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestDocsPage - Outcome: Passed
+2023-07-24 14:59:12.1006|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestTableScraping - Outcome: Passed
+2023-07-24 15:10:59.4504|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 15:14:50.5621|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 15:19:49.5425|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 15:20:39.8331|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 18:35:12.2433|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 18:35:14.7873|INFO|QuasarAutomation.DesktopUtils.MyDesktopUtils|Test Tests.TestHomePage - Outcome: Passed
+2023-07-24 18:39:31.0626|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-24 18:46:56.3632|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.widget.TextView[@text='Docs']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 37
+2023-07-24 18:46:56.3732|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-25 12:10:05.9762|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc='DOCS']/android.widget.TextView"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 37
+2023-07-25 12:10:05.9762|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-25 12:11:12.3231|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc="DOCS"]/android.widget.TextView"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 37
+2023-07-25 12:11:12.3231|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:08:28.5640|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:09:16.3528|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:09:44.6844|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc='DOCS']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:09:44.6951|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:12:35.0718|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View[2]/android.view.View/android.view.View[1]/android.widget.TextView"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:12:35.0718|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:15:56.5442|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc='DOCS']/android.widget.TextView"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 16
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:15:56.5548|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:19:40.5405|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:19:52.8405|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:20:51.6075|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:21:44.7680|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:22:40.0395|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc='DOCS']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 16
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:22:40.0395|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:33:11.9780|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|System.InvalidCastException: Unable to cast OpenQA.Selenium.Remote.RemoteWebDriver to IFindsByFluentSelector
+   at OpenQA.Selenium.Appium.MobileBy.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Appium.ByAccessibilityId.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:33:11.9780|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:38:25.4290|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverException: invalid argument: invalid locator
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElement(String by, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElementByAccessibilityId(String selector)
+   at OpenQA.Selenium.Appium.ByAccessibilityId.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 17
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:38:25.4389|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:46:25.7515|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverException: invalid argument: invalid locator
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElement(String by, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElementByAccessibilityId(String selector)
+   at OpenQA.Selenium.Appium.ByAccessibilityId.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 18
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:46:25.7622|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 18:50:04.7144|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//android.view.View[@content-desc='DOCS']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 18
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 18:50:04.7144|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 19:03:53.1475|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverException: invalid argument: invalid locator
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElement(String by, String value)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.FindElementByAccessibilityId(String selector)
+   at OpenQA.Selenium.Appium.ByAccessibilityId.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileHomePage.HomePage.NavigateToDocs() in c:\Coding\Automation Learning\QuasarAutomation\mobilehomepage.cs:line 18
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 39
+2023-07-26 19:03:53.1475|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Failed
+2023-07-26 19:05:01.1776|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestHomePage - Outcome: Passed
+2023-07-26 19:06:55.2194|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View[1]/android.view.View/android.view.View[1]/android.view.View[2]/android.widget.Button[1]"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickHamburger() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 26
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 57
+2023-07-26 19:06:55.2288|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-26 19:08:46.3324|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickVueComponents() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 26
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 57
+2023-07-26 19:08:46.3424|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-26 19:12:29.9579|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickVueComponents() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 32
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 58
+2023-07-26 19:12:29.9679|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 07:49:14.5294|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 07:50:17.4507|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickVueComponents() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 32
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 58
+2023-07-27 07:50:17.4607|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 07:55:09.0519|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='d4a2dbe7-b932-44d4-b244-3d6b0fe4b6c3']/a[44]"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 36
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 07:55:09.0626|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 08:02:13.5798|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='d4a2dbe7-b932-44d4-b244-3d6b0fe4b6c3']/a[44]"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 37
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 08:02:13.5897|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 08:06:54.2367|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='q-item__section column q-item__section--main justify-center' and text()='Table']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 37
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 08:06:54.2475|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 08:10:02.9772|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Table']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 37
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 08:10:02.9772|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 08:11:03.1927|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 40
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 08:11:03.2031|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-27 08:15:37.2422|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 40
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-27 08:15:37.2422|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:16:07.3249|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 52
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-31 21:16:07.3358|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:25:11.4459|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickDocsLink() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 30
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 56
+2023-07-31 21:25:11.4459|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:26:28.9218|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='q-item__section column q-item__section--main justify-center text-no-wrap' and text()='More']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickMoreButton() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 24
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 55
+2023-07-31 21:26:28.9323|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:27:05.5289|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='q-item__section column q-item__section--main justify-center text-no-wrap' and text()='More']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickMoreButton() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 24
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 55
+2023-07-31 21:27:05.5396|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:27:51.3765|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='q-item__section column q-item__section--main justify-center text-no-wrap' and text()='Docs']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickDocsLink() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 29
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 56
+2023-07-31 21:27:51.3884|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:31:00.9440|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //*[@id=/q-portal--menu--1']/div/div/a[1] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=/q-portal--menu--1']/div/div/a[1]' is not a valid XPath expression.
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickDocsLink() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 29
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 56
+2023-07-31 21:31:00.9440|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:32:50.1268|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='q-item__section' and text()='Docs']"}
+  (Session info: chrome=113.0.5672.136)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ClickDocsLink() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 29
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 56
+2023-07-31 21:32:50.1384|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-07-31 21:34:14.5898|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 52
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-07-31 21:34:14.6000|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 07:20:37.8498|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.NavigateToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 53
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 07:20:37.8498|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 07:36:04.8399|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 07:37:45.5726|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 07:44:16.9402|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 07:45:30.7573|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 07:55:38.5859|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 64
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 07:55:38.5859|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:06:25.8245|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 55
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:06:25.8348|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:08:16.4107|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 55
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:08:16.4107|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:09:37.6000|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 55
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:09:37.6000|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:18:40.0397|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 56
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:18:40.0397|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:25:00.3708|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 56
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:25:00.3813|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 08:36:44.4524|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownToTable() in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 54
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 08:36:44.4630|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 11:24:26.1008|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 11:27:14.7290|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 11:52:01.3850|ERROR|QuasarAutomation.MobileUtils.MyMobileUtils|Error occurred while running the test|OpenQA.Selenium.InvalidElementStateException: Swipe action cannot be performed
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Appium.AppiumDriver`1.PerformTouchAction(ITouchAction touchAction)
+   at OpenQA.Selenium.Appium.MultiTouch.TouchAction.Perform()
+   at QuasarAutomation.MobileDocsPage.DocsPage.ScrollDownInSmallSteps(Int32 numberOfSteps) in c:\Coding\Automation Learning\QuasarAutomation\mobiledocspage.cs:line 57
+   at QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage() in c:\Coding\Automation Learning\QuasarAutomation\mobilequasartestsuite.cs:line 59
+2023-08-01 11:52:01.3951|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 12:12:21.2562|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:13:24.7904|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:16:34.1067|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:21:28.0220|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:52:07.8729|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:53:33.8077|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:57:43.1899|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
+2023-08-01 12:59:04.1992|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Failed
+2023-08-01 12:59:55.4736|INFO|QuasarAutomation.MobileUtils.MyMobileUtils|Test QuasarAutomation.MobileQuasarTestSuite.YourMobileTests.TestDocsPage - Outcome: Passed
