@@ -8,7 +8,7 @@ namespace QuasarAutomation.Pages
         private IWebDriver Driver { get; }
         private WebDriverWait Wait { get; }
 
-        // Selectors
+        
         private By VueComponents => By.XPath("//div[@class='q-item__label' and text()='Vue Components']");
         private By Table => By.XPath("//div[@class='q-item__section column q-item__section--main justify-center' and text()='Table']");
 
@@ -18,7 +18,7 @@ namespace QuasarAutomation.Pages
             Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(10));
         }
 
-        // Methods
+    
         public void ClickVueComponents()
         {
             var vueComponents = Wait.Until(driver =>

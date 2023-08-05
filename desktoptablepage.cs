@@ -10,7 +10,7 @@ namespace QuasarAutomation.Pages
         private IWebDriver Driver { get; }
         private WebDriverWait Wait { get; }
 
-        // Selectors
+        
         private By BasicUsage => By.XPath("//div[@class='q-item__section column q-item__section--main justify-center' and text()='7. Basic usage']");
         private By RecordsDropdown => By.XPath("//label[contains(@class,'q-table__select')]//span[text()='5']");
         private By DropdownOption10 => By.XPath("//div[@class='q-item__label' and span[text()='10']]");

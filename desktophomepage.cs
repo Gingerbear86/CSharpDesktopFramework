@@ -8,7 +8,7 @@ namespace QuasarAutomation.Pages
         private IWebDriver Driver { get; }
         private WebDriverWait Wait { get; }
 
-        // Selectors
+       
         private By AcceptButton => By.XPath("//span[@class='block' and text()='Accept']");
         private By DocsLink => By.XPath("//span[@class='block' and text()='Docs']");
 
@@ -18,7 +18,7 @@ namespace QuasarAutomation.Pages
             Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(10));
         }
 
-        // Methods
+       
         public void ClickAcceptButtonWithJS()
         {
             var acceptButton = Wait.Until(driver =>

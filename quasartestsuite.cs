@@ -33,16 +33,16 @@ public class Tests
     {
         try
         {
-            // Navigate to Quasar Homepage
+           
             var homePage = new HomePage(MyDesktopUtils.Driver);
             homePage.ClickAcceptButtonWithJS();
 
-            // Navigate to Docs Page
+            
             var docsPage = homePage.NavigateToDocsPage();
         }
         catch (Exception ex)
         {
-            // Log the error before failing the test
+           
             MyDesktopUtils.LogError(ex, "Error occurred while running the test");
             throw;
         }
@@ -53,19 +53,19 @@ public class Tests
     {
         try
         {
-            // Navigate to Quasar Homepage
+            
             var homePage = new HomePage(MyDesktopUtils.Driver);
             homePage.ClickAcceptButtonWithJS();
 
-            // Navigate to Docs Page
+            
             var docsPage = homePage.NavigateToDocsPage();
 
-            // Click on the VueComponents button on the Docs page
+            
             docsPage.ClickVueComponents();
         }
         catch (Exception ex)
         {
-            // Log the error before failing the test
+            
             MyDesktopUtils.LogError(ex, "Error occurred while running the test");
             throw;
         }
@@ -76,41 +76,40 @@ public class Tests
     {
         try
         {
-            // Navigate to Quasar Homepage
+            
             var homePage = new HomePage(MyDesktopUtils.Driver);
             homePage.ClickAcceptButtonWithJS();
 
-            // Navigate to Docs Page
+            
             var docsPage = homePage.NavigateToDocsPage();
 
-            // Click on the VueComponents button on the Docs page
+           
             docsPage.ClickVueComponents();
 
-            // Navigate to Table Page from the Docs page
+           
             var tablePage = docsPage.NavigateToTablePage();
 
-            // Interact with elements on the Table Page here
             tablePage.ClickBasicUsage();
 
-            // 
+          
             tablePage.ClickRecordsDropdown();
 
-            //
+           
             tablePage.ClickDropdownOption10();
 
-            //
+           
             tablePage.ClickTableSelector();
 
-            // Scraping data from the web table
+           
             var tableData = tablePage.ScrapeTable();
 
-            // Writing data to an Excel file
+            
             var excelFilePath = Path.Combine(TestContext.CurrentContext.TestDirectory, "data.xlsx");
             tablePage.WriteTableToExcel(tableData, excelFilePath);
         }
         catch (Exception ex)
         {
-            // Log the error before failing the test
+            
             MyDesktopUtils.LogError(ex, "Error occurred while running the test");
             throw;
         }
