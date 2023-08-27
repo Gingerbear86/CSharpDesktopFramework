@@ -2,11 +2,11 @@
   "Desktop": {
     "Url": "https://quasar.dev/",
     "BinaryLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    "DriverPath": "C:\\Coding\\Automation Learning\\QuasarAutomation\\"
+    "DriverPath": "C:\\Coding\\C#Desktop\\CSharpDesktopFramework\\"
   },
   "Mobile": {
     "Url": "https://quasar.dev/",
     "BinaryLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    "DriverPath": "C:\\Coding\\Automation Learning\\QuasarAutomation\\"
+    "DriverPath": "C:\\Coding\\C#Desktop\\CSharpDesktopFramework\\"
   }
 }
